@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <style name="Theme.WorkTrack" parent="Theme.Material3.Light.NoActionBar">
+
+        <!-- Primary -->
+        <item name="colorPrimary">@color/primary_blue</item>
+        <item name="colorPrimaryContainer">@color/primary_blue</item>
+
+        <!-- Secondary -->
+        <item name="colorSecondary">@color/accent_cyan</item>
+
+        <!-- Status Bar -->
+        <item name="android:statusBarColor">@color/primary_navy</item>
+
+        <!-- Navigation Bar -->
+        <item name="android:navigationBarColor">@color/surface_white</item>
+
+        <!-- Background -->
+        <item name="android:windowBackground">@color/background_light</item>
+
+    </style>
+
+</resources>

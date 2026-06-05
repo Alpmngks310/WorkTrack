@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Primary -->
+    <color name="primary_navy">#0F172A</color>
+
+    <!-- Secondary -->
+    <color name="primary_blue">#2563EB</color>
+
+    <!-- Accent -->
+    <color name="accent_cyan">#06B6D4</color>
+
+    <!-- Background -->
+    <color name="background_light">#F8FAFC</color>
+
+    <!-- Surface -->
+    <color name="surface_white">#FFFFFF</color>
+
+    <!-- Text -->
+    <color name="text_primary">#1E293B</color>
+    <color name="text_secondary">#64748B</color>
+
+    <!-- Border -->
+    <color name="border_gray">#CBD5E1</color>
+
+    <!-- Success -->
+    <color name="success_green">#22C55E</color>
+
+    <!-- Danger -->
+    <color name="danger_red">#EF4444</color>
+
+</resources>
