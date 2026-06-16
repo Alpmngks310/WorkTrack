@@ -38,6 +38,26 @@ The platform is designed to create a smoother experience for both employees and 
 
 ---
 
+## 📱 Application Preview
+
+The following screens showcase the current WorkTrack application and demonstrate how employees, managers, finance teams, and HR personnel interact with the platform.
+
+### Key Screens
+
+* Employee Dashboard
+* Attendance Tracking
+* Leave Requests
+* Reimbursement Submission
+* Leave Approval
+* Reimbursement Approval
+* Administrative Monitoring
+
+WorkTrack was designed to simplify workplace administration through a clean, role-based, and user-friendly experience. The interface focuses on improving efficiency, transparency, and accessibility across different organizational workflows.
+
+https://drive.google.com/drive/folders/1DlS5TyjL83T6uZEkwZn6tYgAb7rjCzCc?usp=sharing
+
+---
+
 ## My Role
 
 **Android Developer**
